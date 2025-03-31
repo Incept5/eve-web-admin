@@ -13,7 +13,8 @@ const handleLogin = async () => {
             setTimeout(() => reject(new Error('Request timed out')), 120000) // 2 minutes timeout
         )
 
-        const redirectTo = window.location.origin + '/';
+        // Use the current origin and path for the redirect
+        const redirectTo = window.location.href.split('?')[0].split('#')[0];
         console.log('redirectTo', redirectTo);
         const authPromise = supabase.auth.signInWithOtp({ email: email.value, options: {emailRedirectTo: redirectTo} })
         

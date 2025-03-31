@@ -1,0 +1,24 @@
+{
+  "spec": "continue",
+  "commitMessage": "Initial port of Vue website to GitHub Pages with Eve Horizon branding",
+  "stats": {
+    "inputTokens": 469971,
+    "cacheWriteTokens": 0,
+    "cacheReadTokens": 168608,
+    "outputTokens": 14087,
+    "totalTokens": null,
+    "cost": 1.2159135,
+    "currency": "gbp",
+    "processingMillis": 340733,
+    "git": {
+      "filesChanged": 14,
+      "insertions": 214,
+      "deletions": 4,
+      "linesChanged": 214,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
