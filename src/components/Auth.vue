@@ -38,7 +38,7 @@ const handleLogin = async () => {
                 <img src="/eve_logo.png" alt="Eve Horizon Logo" class="logo" style="width: 200px;" />
             </div>
             <h1 class="header centered">Eve Horizon Access</h1>
-            <p class="description centered" v-if="!showSuccessMessage">Please enter your email below to get access to Eve Horizon which is available <a href="https://github.com/HigherLevelDev/hldk" target="_blank">here</a></p>
+            <p class="description centered" v-if="!showSuccessMessage">Please enter your email below to get access to Eve Horizon which is available <a href="https://github.com/incept5/eve" target="_blank">here</a></p>
             <p class="success-message centered" v-if="showSuccessMessage">
                 Please check your email for instructions on how you can access Eve Horizon
             </p>
