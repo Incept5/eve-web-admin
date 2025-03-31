@@ -1,0 +1,24 @@
+{
+  "spec": "Make a plan for porting the existing vue website from the portFromDir into this new repo but doing it in a way that it can be hosted on github pages (you can ignore the supabase bits and just concentrate on re-imagining the web app)\n\nJust make the plan - don't do anything yet",
+  "commitMessage": "Added .eveignore file to exclude binary files and directories from Eve project.",
+  "stats": {
+    "inputTokens": 5948,
+    "cacheWriteTokens": 7664,
+    "cacheReadTokens": 38320,
+    "outputTokens": 1112,
+    "totalTokens": null,
+    "cost": 0.025893000000000003,
+    "currency": "gbp",
+    "processingMillis": 28507,
+    "git": {
+      "filesChanged": 1,
+      "insertions": 58,
+      "deletions": 0,
+      "linesChanged": 58,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
