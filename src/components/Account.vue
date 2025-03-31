@@ -73,7 +73,7 @@ function copyApiKey() {
 <template>
     <div class="account-widget">
         <div class="logo-container">
-                <img src="/robot.png" alt="Eve Horizon Logo" class="logo" />
+                <img src="/eve_logo.png" alt="Eve Horizon Logo" class="logo" />
             </div>
         <div v-if="error" class="error-message">{{ error }}</div>
         <div v-else>
