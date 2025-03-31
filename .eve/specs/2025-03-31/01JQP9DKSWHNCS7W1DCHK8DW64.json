@@ -1,0 +1,24 @@
+{
+  "spec": "Make a plan for porting the existing vue website from the portFromDir into this new repo but doing it in a way that it can be hosted on github pages - maintain ALL of the existing functionality... but we are renaming \"Higher Level Dev Kit\" to be called \"Eve Horizon\" so we need any applicable naming changes etc\n\nThen backend will remain the exact same supabase instance as now so no need to update urls etc",
+  "commitMessage": "Initial project setup",
+  "stats": {
+    "inputTokens": 184861,
+    "cacheWriteTokens": 0,
+    "cacheReadTokens": 191600,
+    "outputTokens": 8610,
+    "totalTokens": null,
+    "cost": 0.51279975,
+    "currency": "gbp",
+    "processingMillis": 182575,
+    "git": {
+      "filesChanged": 12,
+      "insertions": 823,
+      "deletions": 0,
+      "linesChanged": 823,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
