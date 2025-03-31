@@ -4,7 +4,6 @@ This is the web admin interface for Eve Horizon, providing access to API keys an
 
 ## Development
 
-
 ### Prerequisites
 
 - Node.js (v14 or later)
