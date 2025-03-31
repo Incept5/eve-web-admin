@@ -1,0 +1,24 @@
+{
+  "spec": "what url will it be available on?",
+  "commitMessage": "pnpm-lockfile updated",
+  "stats": {
+    "inputTokens": 13070,
+    "cacheWriteTokens": 6261,
+    "cacheReadTokens": 12522,
+    "outputTokens": 447,
+    "totalTokens": null,
+    "cost": 0.03443625,
+    "currency": "gbp",
+    "processingMillis": 11739,
+    "git": {
+      "filesChanged": 3,
+      "insertions": 626,
+      "deletions": 0,
+      "linesChanged": 626,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
