@@ -1,0 +1,24 @@
+{
+  "spec": "error when running github actions (this is the first time it's run):\n\nRun actions/setup-node@v3\nFound in cache @ /opt/hostedtoolcache/node/18.20.7/x64\nEnvironment details\n/opt/hostedtoolcache/node/18.20.7/x64/bin/npm config get cache\n/home/runner/.npm\nError: Dependencies lock file is not found in /home/runner/work/eve-web-admin/eve-web-admin. Supported file patterns: package-lock.json,npm-shrinkwrap.json,yarn.lock",
+  "commitMessage": "Fix GitHub Actions workflow and include package-lock.json\n\n1. Remove package-lock.json from .gitignore\n2. Update GitHub workflow to use npm install instead of npm ci\n3. Add package-lock.json to repository",
+  "stats": {
+    "inputTokens": 16675,
+    "cacheWriteTokens": 6261,
+    "cacheReadTokens": 43827,
+    "outputTokens": 1027,
+    "totalTokens": null,
+    "cost": 0.0490725,
+    "currency": "gbp",
+    "processingMillis": 25924,
+    "git": {
+      "filesChanged": 3,
+      "insertions": 949,
+      "deletions": 2,
+      "linesChanged": 949,
+      "testFilesChanged": 0,
+      "testInsertions": 0,
+      "testDeletions": 0,
+      "testLinesChanged": 0
+    }
+  }
+}
